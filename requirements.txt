@@ -1,0 +1,4 @@
+langchain
+zhipuai
+gradio
+python-dotenv
