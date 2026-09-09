@@ -8,7 +8,7 @@
 
 ## 🛠️ 技术栈
 Python、LangChain、智谱AI SDK、Gradio
-
+![项目演示截图](项目截图.png)
 ## 🚀 本地运行
 1. 安装依赖
 ```bash
